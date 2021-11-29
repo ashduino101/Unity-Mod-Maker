@@ -7,3 +7,6 @@ Installation Instructions:
     <li>Run Setup.bat before running the tool</li>
     <li>Run UnityModMaker.bat to use the tool</li>
 </ul>
+
+# Changes in this fork:
+literally just made the scripts work on linux
